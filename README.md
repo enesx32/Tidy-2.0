@@ -1,7 +1,7 @@
 # Tidy-2.0
 
 > [!WARNING]
-> This project was generated with AI assistance.
+> This project was generated completely with AI 
 
 ## How to Install
 You can either download a pre-compiled binary from Releases or build it yourself.
